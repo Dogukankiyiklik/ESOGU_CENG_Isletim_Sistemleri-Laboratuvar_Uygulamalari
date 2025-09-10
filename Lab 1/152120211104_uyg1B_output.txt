@@ -1,0 +1,1 @@
+Bir sayı giriniz: Çıktı: 2! = 2, 3! = 6

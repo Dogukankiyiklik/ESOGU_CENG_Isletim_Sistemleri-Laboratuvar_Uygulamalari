@@ -1,0 +1,22 @@
+--> Gene mi toplanti!...
+1. (govde) Gomlek
+2. (bacak) Pantolon
+3. (bacak) Kemer
+4. (govde) Kravat
+5. (govde) Ceket
+6. (kafa) Gozluk
+7. (el) Saat
+8. (ayak) Corap
+--> Kalan oge sayisi: 6
+9. (govde) Mont
+--> Kalan oge sayisi: 5
+10. (govde) Kaskol
+--> Kalan oge sayisi: 4
+11. (kafa) Sapka
+--> Kalan oge sayisi: 3
+12. (bacak) Cuzdan
+--> Kalan oge sayisi: 2
+13. (ayak) Ayakkabi
+--> Kalan oge sayisi: 1
+14. (el) Eldiven
+--> Hazirim.

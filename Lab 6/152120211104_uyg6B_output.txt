@@ -1,0 +1,9 @@
+PID: 515
+Hafıza segmentleri ve izin testi:
+
+Segment: 55a801123000 - 55a801124000 | İzinler: r--p
+  -> Tip: Sadece okunabilir
+  Okuma tamam. Değer (hex): 00
+  Yazma deneniyor...
+
+>>> Segmentation fault oluştu! Hatalı adres: 0x55a801123c47

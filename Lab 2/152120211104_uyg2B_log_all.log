@@ -1,0 +1,48 @@
+PID:382 PPID:287 - Tarih:
+Thu Mar 13 16:11:08 +03 2025
+
+PID:382 PPID:287 - Ebeveyn basladi
+PID:385 PPID:382 - Cocuk1 basladi
+PID:386 PPID:382 - Cocuk2 basladi
+PID:387 PPID:385 - Torun1 basladi
+PID:388 PPID:385 - Torun2 basladi
+PID:389 PPID:385 - Torun3 basladi
+PID:387 PPID:385 - Calisma dizini:
+total 92
+drwxr-x--- 8 doggy doggy  4096 Mar 13 16:11 .
+drwxr-xr-x 3 root  root   4096 Mar  2 19:00 ..
+-rw------- 1 doggy doggy  2036 Mar 13 16:07 .bash_history
+-rw-r--r-- 1 doggy doggy   220 Mar  2 19:00 .bash_logout
+-rw-r--r-- 1 doggy doggy  3771 Mar  2 19:00 .bashrc
+drwx------ 2 doggy doggy  4096 Mar  2 19:01 .cache
+drwxr-xr-x 2 doggy doggy  4096 Mar  5 23:48 .landscape
+-rw------- 1 doggy doggy    20 Mar  6 00:02 .lesshst
+drwxr-xr-x 3 doggy doggy  4096 Mar  6 16:15 .local
+-rw-r--r-- 1 doggy doggy     0 Mar 13 11:30 .motd_shown
+-rw-r--r-- 1 doggy doggy   807 Mar  2 19:00 .profile
+-rw-r--r-- 1 doggy doggy     0 Mar  6 00:28 .sudo_as_admin_successful
+-rw------- 1 doggy doggy 14123 Mar 13 16:10 .viminfo
+-rwxr-xr-x 1 doggy doggy 16840 Mar 13 16:11 152120211104_uyg2B
+-rw-r--r-- 1 doggy doggy  3245 Mar 13 16:10 152120211104_uyg2B.c
+drwxr-xr-x 3 doggy doggy  4096 Mar  6 13:29 Desktop
+drwxr-xr-x 2 doggy doggy  4096 Mar 13 16:11 logs
+drwxr-xr-x 4 doggy doggy  4096 Mar  6 16:14 ~Desktop
+
+PID:389 PPID:385 - Oturum bilgisi:
+           system boot  2025-03-13 16:09
+           run-level 5  2025-03-13 16:09
+LOGIN      tty1         2025-03-13 16:09               189 id=tty1
+LOGIN      console      2025-03-13 16:09               172 id=cons
+doggy    - pts/1        2025-03-13 16:09 00:01         353
+
+PID:388 PPID:385 - Proses agaci:
+systemd(1)---init-systemd(Ub()---SessionLeader(285)---Relay(287)(285)---bash(287)---152120211104_uy(382)---152120211104_uy(382)-+-2+
+                                                                                                                                `-1+
+
+PID:386 PPID:382 - Cocuk2 bitti
+PID:387 PPID:385 - Torun1 bitti
+PID:385 PPID:382 - Bir torun beklendi
+PID:385 PPID:382 - Cocuk1 bitti
+PID:382 PPID:287 - Ebeveyn bitti
+PID:388 PPID:286 - Torun2 bitti
+PID:389 PPID:286 - Torun3 bitti
